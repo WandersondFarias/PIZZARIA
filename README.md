@@ -8,7 +8,7 @@
 </div>
 
 
-### Este projeto é a criação de um site para uma Pizzaria ficticia.
+### Este projeto é a criação de um site para uma Pizzaria 
 
 <p> 
     <img width="1000" height="600" src="src/gif7.gif" >
